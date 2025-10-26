@@ -3,6 +3,9 @@
 ![Academy-Patch](https://github.com/user-attachments/assets/57847532-b150-4663-a617-8837e1f68fc3)
 ![Academy-Shield](https://github.com/user-attachments/assets/ad9aa171-91b1-4665-b1cc-1991a97387b6)
 
+
+<a href="Class%20Pic%2010.22.2025%20Main.jpg" download>⬇️ CLASS PICTURE MAIN</a>
+
 <br>
 <br>
 
