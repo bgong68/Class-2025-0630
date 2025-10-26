@@ -6,7 +6,7 @@
 
 
 
-<a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a>
+<!-- <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a> -->
 
 
 
@@ -14,7 +14,7 @@ NYS Court Officers Academy
 
 Class of October 22, 2025
 
-Date of appointment June 06,2025
+Date of appointment June 30,2025
 
 256 Recruits Started
 
