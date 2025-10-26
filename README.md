@@ -7,7 +7,11 @@
 
 
 <!-- <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a> -->
-<a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a>
+[Training Material](./training-material.pdf)
+
+
+[Class Picture Main](./Class%20Pic%2010.22.2025%20Main.jpg)
+
 
 <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Squad%20A.jpg" download>Class Picture Squad A</a>
 
