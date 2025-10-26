@@ -5,6 +5,8 @@
 
 <br>
 
+<!-- Show a download link and open a preview when clicked-->  
+
 [⬇️ Class Picture Main](./Class%20Pic%2010.22.2025%20Main.jpg)
 
 [⬇️ Class Picture Squad A](./Class%20Pic%2010.22.2025%20Squad%20A.jpg)  
