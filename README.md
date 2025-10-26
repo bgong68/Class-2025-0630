@@ -6,6 +6,8 @@
 
 <a href="Class%20Pic%2010.22.2025%20Main.jpg" download>⬇️ CLASS PICTURE MAIN</a>
 
+
+<a href="Class%20Pic%2010.22.2025%20Main.jpg" target="_blank">⬇️ CLASS PICTURE MAIN new tab</a>
 <br>
 <br>
 
