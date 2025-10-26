@@ -9,7 +9,7 @@
 <!-- <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a> -->
 <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Main.jpg" download>Class Picture Main</a>
 
-<a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Squad%20A.jpg)" download>Class Picture Squad A</a>
+<a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Squad%20A.jpg" download>Class Picture Squad A</a>
 
 <a href="https://github.com/bgong68/Class-2025-0630/blob/main/Class%20Pic%2010.22.2025%20Squad%20B.jpg" download>Class Picture Squad B</a>
 
