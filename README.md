@@ -36,7 +36,7 @@ NYS Court Officers Academy
 
 Class of October 22, 2025
 
-Date of appointment June 30,2025
+Date of appointment June 30, 2025
 
 256 Recruits Started
 
