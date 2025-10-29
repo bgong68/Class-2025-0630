@@ -11,7 +11,7 @@
 
 
 
-<!-- Show a download link and open a preview when clicked     ![Academy-Shield](https://github.com/user-attachments/assets/ad9aa171-91b1-4665-b1cc-1991a97387b6) -->  
+<!-- Show a download link and open a preview when clicked  -->  
 [🖼️ Class Picture Main](./Class%20Pic%2010.22.2025%20Main.jpg)           
 
 [🖼️ Class Picture Squad A](./Class%20Pic%2010.22.2025%20Squad%20A.jpg)  
@@ -29,8 +29,6 @@
 [🖼️ Class Picture Squad G](./Class%20Pic%2010.22.2025%20Squad%20G.jpg)  
 
 [🖼️ Class Picture Squad H](./Class%20Pic%2010.22.2025%20Squad%20H.jpg)  
-
-<br>
 
 [🎥 Class Video Graduation](https://drive.google.com/file/d/1KrVmX4wgGVbBrKGq4KAHHKTjrSAuP804/view?usp=sharing)  
 
