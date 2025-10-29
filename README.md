@@ -30,9 +30,9 @@
 
 [🖼️ Class Picture Squad H](./Class%20Pic%2010.22.2025%20Squad%20H.jpg)  
 
-<!--
-[<img width="20" height="20" alt="vid-download-icon" src="https://github.com/user-attachments/assets/3280aebd-a838-4e51-ba54-629fa5b30d8e" /> Class Graduation Video](./Class%20Pic%2010.22.2025%20Squad%20H.jpg) 
--->
+<br>
+
+[🎥 Class Video Graduation](https://drive.google.com/file/d/1KrVmX4wgGVbBrKGq4KAHHKTjrSAuP804/view?usp=sharing)  
 
 <br>
 <br>
