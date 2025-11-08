@@ -6,10 +6,8 @@
 <img width="150" height="150" alt="COA PATCH TRANSPARENT" src="https://github.com/user-attachments/assets/9f224398-9804-429a-908e-5bd5edc39c3c" />
 ![Academy-Patch](https://github.com/user-attachments/assets/57847532-b150-4663-a617-8837e1f68fc3)
 
+<br> 
 <br>
-
-
-
 
 <!-- Show a download link and open a preview when clicked  -->  
 [🖼️ Class Picture Main](./Class%20Pic%2010.22.2025%20Main.jpg)           
